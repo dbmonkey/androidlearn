@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MarqueeDemo</string>
+    <string name="textview">我是一个textview控件，我是一个textview控件</string>
+</resources>

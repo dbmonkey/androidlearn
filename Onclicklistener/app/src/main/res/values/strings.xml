@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Onclicklistener</string>
+    <string name="btn_1">匿名内部类</string>
+    <string name="btn_2">使用外部类实现监听事件</string>
+    <string name="btn_3">使用接口方式实现监听事件</string>
+</resources>

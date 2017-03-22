@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ButtonDemo</string>
+    <string name="btn_1">按钮--红</string>
+    <string name="btn_2">按钮--橙</string>
+    <string name="btn_3">按钮--蓝</string>
+    <string name="btn_4">按钮--绿</string>
+</resources>
